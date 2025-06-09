@@ -5,3 +5,4 @@ This project showcases a 5-star rating system, as well as an openable and closab
 HTML, JS(React), CSS
 
 You can access this website using the link below or in the project description
+<a href="https://mreidmoesker.github.io/rating-system/">CLICK HERE</a>
